@@ -1,4 +1,5 @@
 # 🔌 Integrate XPack MCP Services into Your AI Product
+![20250728-164902](https://github.com/user-attachments/assets/52699270-b46e-4d93-9983-12e9072db643)
 
 XPack is an open MCP (Model-Context Protocol) marketplace that allows your AI product to connect with real-world tools and data via a simple config. This guide walks you through how to connect your AI application to XPack’s online MCP services in just a few minutes.
 
